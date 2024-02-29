@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: helvetica;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  canvas {
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.5);
+}
+h3 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 2em;
+    color: rgb(32, 32, 32);
+    text-shadow: 2px 2px 4px #000000;
+}
